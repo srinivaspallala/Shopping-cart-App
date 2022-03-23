@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    position: fixed;
+    
+}
+.nav-item{
+    margin-left: 60px;
+}
+.navbar-cart-icon{
+    display: flex;
+    font-size: 30px;
+    color: white;
+    margin-left: 500px;
+}
+.card{
+    width: 690px;
+    height: auto;
+    /* border: 2px solid red; */
+    margin-left: 230px;
+
+}
+.modal #remove{
+    margin-left: 200px;
+}
